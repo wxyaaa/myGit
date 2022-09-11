@@ -2,6 +2,6 @@ package com.offcn.git;
 
 public class GitDemo {
     public static void main(String[] args) {
-        System.out.println("secound");
+        System.out.println("secound-dog");
     }
 }
